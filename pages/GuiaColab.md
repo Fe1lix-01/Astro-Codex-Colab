@@ -1,4 +1,6 @@
-# Astro-Codex-Colab
+---
+title: Guía para trabajar en Colab desde GitHub
+---
 
 🚀 Guía Rápida para Colaborar
 
