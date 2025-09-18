@@ -8,8 +8,6 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
  ---
  
  ## Tareas para la semana del 18 al 21
- 
- ## Tareas para la semana del 18 al 21
 
 | Tarea | Responsable | Estado |
 |-------|-------------|--------|
@@ -18,11 +16,10 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
 | Imagenes de Google Earth Engine | Emanuel | Pendiente |
 | Imagenes de la Nasa | Didier | Pendiente |
 | Formulas con codigo para detectar polen, y fenologías | Sofi | Pendiente |
-| Información sobre la fenología del Maíz              |   Mary      | Pendiente |
+| Información sobre la fenología del Maíz |   Mary      | Pendiente |
  
  ---
- 
- ## Notas adicionales
+
 * [Guia para trabajar en colab desde GitHub Colab](/pages/GuiaColab)
 
 
