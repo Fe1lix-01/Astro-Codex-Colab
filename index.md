@@ -9,19 +9,21 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
  
  ## Tareas para la semana del 18 al 21
  
- | Tarea                                                | Responsable | Estado  |
- |------------------------------------------------------|-------------|---------|
- | Diseño web en Figma                                  |    Amy      |         |
- | Mapa con geometria y cordenadas en web               |   Félix     |         |
- | Imagenes de Google Earth Engine                      |   Emanuel   |         |
- | Imagenes de la Nasa                                  |   Didier    |         |
- | Formulas con codigo para detectar polen, y fenologías|   Sofi      |         |
- | Información sobre la fenología del Maíz              |   Mary      |         |
+ ## Tareas para la semana del 18 al 21
+
+| Tarea | Responsable | Estado |
+|-------|-------------|--------|
+| Diseño web en Figma | Amy | En progreso |
+| Mapa con geometria y cordenadas en web | Félix | Pendiente |
+| Imagenes de Google Earth Engine | Emanuel | Pendiente |
+| Imagenes de la Nasa | Didier | Pendiente |
+| Formulas con codigo para detectar polen, y fenologías | Sofi | Pendiente |
+| Información sobre la fenología del Maíz              |   Mary      | Pendiente |
  
  ---
  
  ## Notas adicionales
- - Guia para trabajar en colab desde GitHub [Colab](/pages/GuiaColab)
+* [Guia para trabajar en colab desde GitHub Colab](/pages/GuiaColab)
 
 
 
