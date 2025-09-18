@@ -3,19 +3,19 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
  
  [BloomWatch NASA](https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/?tab=details)
  
- ![BLOOMWATCH](assets/images/BloomWatch.jpeg)
+ ![BLOOMWATCH](assets/images/BloomWatch.jpg)
  
  ---
  
  ## Tareas para la semana del 18 al 21
  
- | Tarea                      | Responsable | Estado  |
- |----------------------------|-------------|---------|
- | Definir objetivos          |             |         |
- | Recolectar recursos        |             |         |
- | Crear estructura inicial   |             |         |
- | Documentar avances         |             |         |
- | Revisar y ajustar metas    |             |         |
+ | Tarea                                                | Responsable | Estado  |
+ |------------------------------------------------------|-------------|---------|
+ | Diseño web en Figma                                  |    Amy      |         |
+ | Mapa con geometria y cordenadas en web               |   Félix     |         |
+ | Imagenes de Google Earth Engine                      |   Emanuel   |         |
+ | Imagenes de la Nasa                                  |   Didier    |         |
+ | Formulas con codigo para detectar polen, y fenologías|   Sofi      |         |
  
  ---
  
