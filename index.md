@@ -16,6 +16,7 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
  | Imagenes de Google Earth Engine                      |   Emanuel   |         |
  | Imagenes de la Nasa                                  |   Didier    |         |
  | Formulas con codigo para detectar polen, y fenologías|   Sofi      |         |
+ | Información sobre la fenología del Maíz              |   Mary      |         |
  
  ---
  
