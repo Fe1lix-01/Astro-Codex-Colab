@@ -22,7 +22,7 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
 
 ## Notas adicionales
 
-* [Guia para trabajar en colab desde GitHub Colab](/GuiaColab)
+* [Guia para trabajar en colab desde GitHub Colab](/Guia)
 
 
 
