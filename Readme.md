@@ -43,7 +43,7 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
 
 * [Guía para trabajar en colab desde GitHub Colab](Guia)
 * [Prototipo en Figma](https://www.figma.com/site/WVLBzxRr8Yb6DWZpjeD0M7/Untitled?node-id=0-3&t=HE5KVVbup1LbzWQS-1)
-* [Página web Repositorio en GitHub]()
+* [Página web Repositorio en GitHub](https://github.com/Fe1lix-01/Astro-Codex-Web)
 * [Airbnb opción](https://www.airbnb.mx/rooms/1492159875712234338?adults=6&check_in=2025-10-02&check_out=2025-10-03&guests=6&search_mode=regular_search&children=0&infants=0&pets=0&source_impression_id=p3_1758577246_P3OY-nC_hLphE8nc&previous_page_section_name=1000&federated_search_id=d4f05ba7-34b5-405b-a2e0-c346e4caaaed)
 
 
