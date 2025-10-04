@@ -41,6 +41,16 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
 
 ---
 
+## Herramienta que utilizaremos para el RASTREO DE CICLOS ESTACIONALES DE LAS FLORES 
+
+* Con este instrumentos espacial y de aeronaves  vamos a utilizar el color para rastrear los ciclos estacionales de las flores.
+* <img width="577" height="85" alt="image" src="https://github.com/user-attachments/assets/33041af5-f8d7-4154-9e7d-8ff4a1895d6a" />
+
+El instrumento —un espectrómetro de imágenes— mapeó el paisaje en cientos de longitudes de onda de luz, capturando las flores a medida que florecían y envejecían a lo largo de los meses. <img width="580" height="113" alt="image" src="https://github.com/user-attachments/assets/b2c7d417-3a53-4341-8dde-519b6d73ee44" />
+
+
+---
+
 * [Guía para trabajar en colab desde GitHub Colab](Guia)
 * [Prototipo en Figma](https://www.figma.com/site/WVLBzxRr8Yb6DWZpjeD0M7/Untitled?node-id=0-3&t=HE5KVVbup1LbzWQS-1)
 * [Página web Repositorio en GitHub](https://github.com/Fe1lix-01/Astro-Codex-Web)
