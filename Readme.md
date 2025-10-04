@@ -43,10 +43,38 @@ Su desafío es aprovechar el poder de los datos de observación de la Tierra de 
 
 ## Herramienta que utilizaremos para el RASTREO DE CICLOS ESTACIONALES DE LAS FLORES 
 
-* Con este instrumentos espacial y de aeronaves  vamos a utilizar el color para rastrear los ciclos estacionales de las flores.
-* <img width="577" height="85" alt="image" src="https://github.com/user-attachments/assets/33041af5-f8d7-4154-9e7d-8ff4a1895d6a" />
+Con este instrumento espacial y de aeronaves vamos a utilizar el color para rastrear los ciclos estacionales de las flores.
 
-El instrumento —un espectrómetro de imágenes— mapeó el paisaje en cientos de longitudes de onda de luz, capturando las flores a medida que florecían y envejecían a lo largo de los meses. <img width="580" height="113" alt="image" src="https://github.com/user-attachments/assets/b2c7d417-3a53-4341-8dde-519b6d73ee44" />
+El instrumento —un espectrómetro de imágenes— mapeó el paisaje en cientos de longitudes de onda de luz, capturando las flores a medida que florecían y envejecían a lo largo de los meses.
+
+Los paneles inferiores representan la huella espectral de cada punto de la imagen, capturando el rango visible de luz (longitudes de onda azul, verde y roja) hasta el infrarrojo cercano (NIR) y más allá. La resolución espacial es de alrededor de 16 pies (5 metros).
+
+Para muchas especies de plantas, desde cultivos hasta cactus, la floración está sincronizada con los cambios estacionales de temperatura, luz diurna y precipitaciones.
+
+<img width="746" height="986" alt="image" src="https://github.com/user-attachments/assets/00fe94c3-69d2-48de-841a-a850ce37c79b" />
+
+Por lo general, los estudios de flores silvestres se basan en observaciones desde el terreno y en herramientas como la fotografía time-lapse. 
+
+Para rastrear las flores a gran escala, Angel y otros científicos de la NASA buscan una de las cualidades distintivas de las flores: el color.
+
+Los pigmentos florales se dividen en tres grupos principales: carotenoides y betalaínas (asociados con los colores amarillo, naranja y rojo) y antocianinas (responsables de muchos rojos intensos, violetas y azules). Las diferentes estructuras químicas de los pigmentos reflejan y absorben la luz en patrones únicos.
+
+<img width="1134" height="751" alt="image" src="https://github.com/user-attachments/assets/447cb4c8-e21e-4aca-96ef-455e8e0bd538" />
+
+
+El espectrómetro de imágenes infrarrojas visibles aerotransportado de próxima generación (AVIRIS-NG) se ha desarrollado para proporcionar acceso continuo a mediciones de espectroscopia de imágenes con alta relación señal-ruido en el rango espectral reflejado solar. 
+
+AVIRIS-NG mide el rango de longitud de onda de 380 nm a 2510 nm con un muestreo de 5 nm. Los espectros se miden como imágenes con 600 elementos transversales y muestreo espacial de 0,3 m a 4,0 m desde una plataforma Twin Otter. En un futuro próximo estará disponible una plataforma de gran altitud (ER-2 de la NASA). AVIRIS-NG tiene una uniformidad espectral cruzada superior al 95% y una uniformidad espectral IFOV >= del 95%.
+
+AVIRIS-NG ha sido calibrado e implementado con un nuevo sistema de captura de datos de alta velocidad y un nuevo algoritmo de detección de nubes en tiempo real para respaldar un experimento de liberación de metano en el Centro de pruebas de campos petrolíferos de las Montañas Rocosas del Departamento de Energía. La capacidad de este instrumento para detectar y medir fuentes puntuales de metano es de interés tanto para la investigación de gases de efecto invernadero como para la exploración de recursos naturales, y el algoritmo de detección de nubes a bordo es aplicable para misiones de espectrómetros de imágenes espaciales.
+
+FUENTES:
+<https://www.jpl.nasa.gov/news/nasa-takes-to-the-air-to-study-wildflowers/>
+<https://avirisng.jpl.nasa.gov/> 
+
+
+
+
 
 
 ---
