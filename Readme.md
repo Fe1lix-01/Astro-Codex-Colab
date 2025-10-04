@@ -51,7 +51,7 @@ Los paneles inferiores representan la huella espectral de cada punto de la image
 
 Para muchas especies de plantas, desde cultivos hasta cactus, la floración está sincronizada con los cambios estacionales de temperatura, luz diurna y precipitaciones.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/00fe94c3-69d2-48de-841a-a850ce37c79b" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/00fe94c3-69d2-48de-841a-a850ce37c79b" />
 
 Por lo general, los estudios de flores silvestres se basan en observaciones desde el terreno y en herramientas como la fotografía time-lapse. 
 
