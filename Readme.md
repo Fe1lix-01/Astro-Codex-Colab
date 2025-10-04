@@ -51,7 +51,7 @@ Los paneles inferiores representan la huella espectral de cada punto de la image
 
 Para muchas especies de plantas, desde cultivos hasta cactus, la floración está sincronizada con los cambios estacionales de temperatura, luz diurna y precipitaciones.
 
-<img width="746" height="986" alt="image" src="https://github.com/user-attachments/assets/00fe94c3-69d2-48de-841a-a850ce37c79b" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/00fe94c3-69d2-48de-841a-a850ce37c79b" />
 
 Por lo general, los estudios de flores silvestres se basan en observaciones desde el terreno y en herramientas como la fotografía time-lapse. 
 
@@ -59,7 +59,7 @@ Para rastrear las flores a gran escala, Angel y otros científicos de la NASA bu
 
 Los pigmentos florales se dividen en tres grupos principales: carotenoides y betalaínas (asociados con los colores amarillo, naranja y rojo) y antocianinas (responsables de muchos rojos intensos, violetas y azules). Las diferentes estructuras químicas de los pigmentos reflejan y absorben la luz en patrones únicos.
 
-<img width="1134" height="751" alt="image" src="https://github.com/user-attachments/assets/447cb4c8-e21e-4aca-96ef-455e8e0bd538" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/447cb4c8-e21e-4aca-96ef-455e8e0bd538" />
 
 
 El espectrómetro de imágenes infrarrojas visibles aerotransportado de próxima generación (AVIRIS-NG) se ha desarrollado para proporcionar acceso continuo a mediciones de espectroscopia de imágenes con alta relación señal-ruido en el rango espectral reflejado solar. 
