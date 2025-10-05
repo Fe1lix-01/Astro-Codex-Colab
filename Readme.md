@@ -72,6 +72,27 @@ FUENTES:
 <https://www.jpl.nasa.gov/news/nasa-takes-to-the-air-to-study-wildflowers/>
 <https://avirisng.jpl.nasa.gov/> 
 
+**Polinización del maíz y papel de las abejas**
+
+El maíz es principalmente anemófilo (polinización por viento), pero numerosos estudios y
+observaciones indican que insectos como las abejas melíferas y otros polinizadores colectan polen
+de maíz y pueden contribuir al transporte de granos de polen, especialmente en sistemas agrícolas
+heterogéneos o en bordes de cultivo.
+
+Una sola planta de maíz puede producir de 2 a 5 millones de granos de polen. La variabilidad
+natural del campo hace que la liberación de polen se produzca en un período de 10 a 14 días. El
+pico de liberación de polen suele ocurrir a media mañana, pero una antera húmeda no lo liberará.
+El clima más fresco, nublado o húmedo retrasa la liberación de polen, y no se produce durante la
+lluvia. El polen puede viajar más de 152 metros, pero la mayor parte del polen liberado solo se
+desplaza entre 6 y 15 metros.
+
+Implicaciones para apicultores:
+• El calendario de floración del maíz informa cuándo la disponibilidad de polen aumenta:
+útil para planificar colmenas, alimentación suplementaria y movimientos trashumantes
+(práctica de mover colmenas de abejas de un lugar a otro según la disponibilidad de
+floraciones o recursos).
+• Monitoreo de floraciones cercanas permite reducir conflictos (por ejemplo, la exposición
+a pesticidas durante floración) y optimizar la ubicación de colmenas.
 
 
 
