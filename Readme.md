@@ -302,50 +302,54 @@ REFERENCIAS DE FORMULAS
 • https://pro.arcgis.com/es/pro-app/3.3/arcpy/image-analyst/gnvdi.htm
 
 
-**Simulación de la dispersión del polen**
+# Polen dispersion simulation
 
-La metodología propuesta consta de 4 pasos para realizar la simulación, con este enfoque se podrán distinguir entre polen provenientes de distintas especies.
+One of the big difficulties identified in this challenge was the ability to track down pollen particles, as it is currently not possible to identify them from satellite data and differenciate it from other aerosols. Therefore an innovative approach was needed. Our proposed methodology consists of **four steps** to carry out the simulation. One advantage of this approach, will be the ability to distinguish pollen originating from different sources.
 
+### Step 1: Crop Detection
 
-**Paso 1: Detección de cultivos**
-Se usará una combinación de datos para identificar con confiabilidad la ubicación de cultivos de maíz, trigo, agave o frijol. Con el SAR de Sentinel-1 podremos detectar cultivos en zonas con mucha nubosidad (por ejemplo Chiapas), esto se combinará con los instrumentos ópticos de Sentinel-2 para detectarlos mediante análisis temporales de índices de vegetación. Además está la opción de detectarlos con firmas espectrales con el Sentinel-2, Landsat, EMIT y MODIS.
-A esto se le añadirán datos auxiliares para delimitar las zonas con mayor facilidad. Con modelos de elevación descartaremos zonas demasiado elevadas o inclinadas para cierto tipo de cultivos. Con datos históricos del clima (temperatura, precipitación y humedad) podemos delimitar en qué zonas es factible la siembra de ciertos cultivos. Asimismo existen censos agropecuarios para la validación y muestreo de nuestro modelo.
+A combination of data will be used to reliably identify the location of **corn, wheat, agave,** or **bean** crops.  
+With **Sentinel-1 SAR**, it will be possible to detect crops in areas with high cloud coverage (for example, *Chiapas*).  
+This will be combined with the **optical instruments of Sentinel-2** to detect them through temporal analysis of vegetation indices.  
 
+Additionally, there is the possibility of detecting them using **spectral signatures** from **Landsat, EMIT,** and **MODIS**.  
+Auxiliary data will also be added to more easily delineate the zones.  
 
-**Paso 2: Detección de floración**
-Una vez identificados los cultivos, con índices de vegetación y conocimiento sobre la fenología de los cultivos, estimar las fechas de floración.
+Using **elevation models**, we will discard areas that are too high or steep for certain types of crops.  
+With **historical climate data** (temperature, precipitation, and humidity), we can delimit areas where planting specific crops is feasible.  
+Furthermore, **agricultural census data** will be used for model validation and sampling.
 
+---
 
-**Paso 3: Simulación**
-En base a la cantidad de cultivos, ubicación, condiciones meteorológicas y topografía del terreno se realizará la simulación estadística de la dispersión del polen.
+### Step 2: Flowering Detection
 
-
-**Paso 4: Visualización**
-Esto finalmente se visualizará en el mapa.
-
-**Detección de Cultivos**
-
-La identificación de los cultivos desde etapas tempranas puede realizarse mediante índices de vegetación específicos. Para la detección de trigo se pueden utilizar series espectrales de NDVI como lo realizó Zhao Y., Jiang R., et. Al (2025). Pero también está la posibilidad de usar SAVI en la etapa de germinación, NDRE o NDMI durante el crecimiento. Para el maíz, el NDVI es ampliamente utilizado y ha demostrado ser adecuado. Para el agave, los índices NDWI, MSI y NDSSI son ideales por las condiciones semi-áridas en las que se da esta planta. Por último, para el frijol, NDRE, GNDVI, SAVI, NDVI son aplicables según la región. 
-
-Adicional a la identificación por satélite, se puede incorporar información proveniente de bases de datos gubernamentales sobre la producción agrícola, como el censo agropecuario realizado en México por el INEGI. Los datos históricos del clima provenientes de ERA5 y mapas topográficos. Todo esto para decidir si hay mayor o menor probabilidad de que un cultivo detectado sea de un tipo u otro.
 
 <img width="574" height="369" alt="image" src="https://github.com/user-attachments/assets/8b81d056-844b-49d7-94b5-1e018f0db83d" />
 
 
-**Detección de floración**
 <img width="781" height="335" alt="image" src="https://github.com/user-attachments/assets/7118ea46-19ab-4914-8ffb-46be6ef39af0" />
 
+### Step 2: Flowering Detection
 
-Para la detección de la floración, se propone adaptar la metodología presentada por Angel Y., Raihno A, Kathuria D., et. al. Para detectar los eventos de floración del frijol, maíz, trigo y agave con el sensor multiespectral de Sentinel-2.
-Simulación
-Para simular la dispersión de polen, se tomarán como parámetros iniciales la ubicación y extensión de los eventos de floración detectados con los sensores multiespectrales, los datos históricos y predicciones climáticas de ERA5 o MERRA-2. Se utilizará la herramienta/modelo HYSPLIT
-Visualización
-Se representará en un mapa con un gradiente de color en base a la predicción de la densidad de polen esperada.
+To detect flowering, the methodology proposed by **Angel Y., Raihno A., Kathuria D., et al.** will be adapted.  
+This approach will be used to detect flowering events of **bean, corn, wheat,** and **agave** crops using the **multispectral sensor of Sentinel-2**.
 
+---
 
-**Visualización**
+### Step 3: Simulation
 
-Se representará en un mapa con un gradiente de color en base a la predicción de la densidad de polen esperada.
+To simulate **pollen dispersion**, the initial parameters will include:
+- The **location and extent** of flowering events detected by multispectral sensors  
+- **Historical and forecasted climate data** from **ERA5** or **MERRA-2**  
+
+The **HYSPLIT** model/tool will be used to perform the simulation.
+
+---
+
+### Step 4: Visualization
+
+The results will be represented on a **map**, using a **color gradient** based on the predicted **pollen density**.
+
 
 <img width="702" height="468" alt="image" src="https://github.com/user-attachments/assets/66e14c13-4603-4bb2-8534-df8fff8cda45" />
 
