@@ -72,56 +72,45 @@ FUENTES:
 <https://www.jpl.nasa.gov/news/nasa-takes-to-the-air-to-study-wildflowers/>
 <https://avirisng.jpl.nasa.gov/> 
 
-**Información sobre la fenología del maíz, polinización, abejas, NDVI apicultores**
+**Information on Maize Phenology, Pollination, Bees, NDVI, and Beekeepers**
 
-**1.1 Fenología del maíz**
-La fenología del maíz describe las etapas desde siembra hasta la madurez fisiológica. La duración
-y el calendario de cada etapa están fuertemente controlados por temperatura y en algunos híbridos,
-por fotoperíodo. Detectar con precisión la fase de floración es crítico porque define la ventana de
-polinización y es determinante del rendimiento.
+**1.1 Maize Phenology**
+Maize phenology describes the stages from sowing to physiological maturity. The duration and timing of each stage are strongly influenced by temperature and, in some hybrids, by photoperiod. Accurately detecting the flowering phase is critical because it defines the pollination window and determines yield potential.
 
-La fenología del maíz describe las etapas morfológicas y fisiológicas de su desarrollo, divididas
-en dos fases principales:
-• Vegetativa (V): la planta se enfoca en el crecimiento de hojas y raíces.
-• Reproductiva (R): abarca la floración, la polinización, la formación de la mazorca, el
-llenado del grano y la maduración.
+Maize phenology outlines the morphological and physiological stages of development, divided into two main phases:
 
-Etapas fenológicas del maíz (simplificadas para la página web)
+Vegetative (V): The plant focuses on leaf and root growth.
 
-1. Emergencia – Establecimiento (V0-V2)
-Semilla germinada, plántula emergiendo.
-• Etiqueta web: “Emergencia”.
+Reproductive (R): Encompasses flowering, pollination, ear formation, grain filling, and maturation.
 
-3. Crecimiento vegetativo – Desarrollo de hojas (V3)
-Desarrollo de tallo y hojas, acumulación de biomasa.
-• Etiqueta web: “Crecimiento vegetativo”.
+Simplified Maize Phenological Stages (for website display)
 
-5. Pre-floración / Desarrollo de panoja
-Inicio de formación de estructuras reproductivas (panoja masculina arriba).
-• Etiqueta web: “Pre-floración”.
+Emergence – Establishment (V0–V2): The seed germinates, and the seedling emerges.
+• Website label: “Emergence”
 
-7. Floración – Polinización (R1: tasseling & silking)
-Panoja libera polen, aparecen las sedas (estigmas).
+Vegetative Growth – Leaf Development (V3): Stem and leaf development, biomass accumulation.
+• Website label: “Vegetative Growth”
 
-Lo ideal es que tasseling y silking ocurran de forma sincronizada, de manera que cuando el
-polen está disponible, las sedas también lo estén para recibirlo.
-• Momento más crítico del ciclo (rendimiento y abejas).
-• Etiqueta web: “Floración”.
+Pre-Flowering / Tassel Development: Beginning of reproductive structure formation (male tassel on top).
+• Website label: “Pre-Flowering”
 
-9. Llenado de grano (R2–R5)
-Granos creciendo y llenándose de almidón.
-• Etiqueta web: “Llenado de grano”.
+Flowering – Pollination (R1: Tasseling & Silking): The tassel releases pollen while silks (stigmas) appear.
+Ideally, tasseling and silking occur synchronously so that when pollen is available, the silks are ready to receive it.
+• Most critical phase of the cycle (for both yield and bees).
+• Website label: “Flowering”
 
-10. Madurez fisiológica – Senescencia (R6)
-Planta seca, hojas pierden verdor.
-• Etiqueta web: “Madurez / Senescencia”.
+Grain Filling (R2–R5): Grains develop and fill with starch.
+• Website label: “Grain Filling”
 
-Etiquetas visuales con íconos y colores:
-• Verde claro → emergencia.
-• Verde intenso → vegetativo.
-• Amarillo → floración.
-• Naranja → llenado.
-• Marrón → senescencia.
+Physiological Maturity – Senescence (R6): The plant dries, and leaves lose their green color.
+• Website label: “Maturity / Senescence”
+
+Visual tags with icons and colors:
+• Light green → Emergence
+• Dark green → Vegetative
+• Yellow → Flowering
+• Orange → Grain filling
+• Brown → Senescence
 
 **1.2 Polinización del maíz y papel de las abejas**
 
