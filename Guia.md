@@ -1,4 +1,4 @@
-[← Regresar a la página principal](TeamInfo.md)
+[← Regresar a la página principal](TeamInfo)
 
 # Astro-Codex-Colab
 
