@@ -1,10 +1,6 @@
 # Astro-Codex NASA
-Su desafío es aprovechar el poder de los datos de observación de la Tierra de la NASA para desarrollar una herramienta que monitoree y visualice eventos de floración de plantas en todo el mundo o dentro de una región local específica, y aborda directamente una necesidad específica de monitoreo de vegetación, predicción o gestión en la escala elegida.
 
-[BloomWatch NASA](https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/?tab=details)
-
-![BLOOMWATCH](assets/images/BloomWatch.jpg)
-
+* [Página web Repositorio en GitHub](https://github.com/Fe1lix-01/Astro-Codex-Web)
 * [Team Roles](TeamInfo)
 
 ---
