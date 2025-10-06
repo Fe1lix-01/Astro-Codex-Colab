@@ -1,7 +1,7 @@
 # Astro-Codex NASA
 
 * [Página web Repositorio en GitHub](https://github.com/Fe1lix-01/Astro-Codex-Web)
-* [Team Roles](TeamInfo)
+* [Prototipo en Figma]([https://www.figma.com/site/WVLBzxRr8Yb6DWZpjeD0M7/Untitled?node-id=0-3&t=HE5KVVbup1LbzWQS-1](https://www.figma.com/site/WVLBzxRr8Yb6DWZpjeD0M7/Untitled?node-id=63-316&t=Ns9aMdjGTmc2HcsG-1))
 
 ---
 
@@ -310,7 +310,8 @@ The results will be represented on a **map**, using a **color gradient** based o
 
 
 ---
-* [Prototipo en Figma](https://www.figma.com/site/WVLBzxRr8Yb6DWZpjeD0M7/Untitled?node-id=0-3&t=HE5KVVbup1LbzWQS-1)
+
+* [Team Roles](TeamInfo)
 * [Página web Repositorio en GitHub](https://github.com/Fe1lix-01/Astro-Codex-Web)
 
 
