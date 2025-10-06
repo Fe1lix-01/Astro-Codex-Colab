@@ -5,32 +5,31 @@
 
 ---
 
-## Herramienta que utilizaremos para el RASTREO DE CICLOS ESTACIONALES DE LAS FLORES 
+Tool for Tracking Seasonal Cycles of Flowers
 
-Con este instrumento espacial y de aeronaves vamos a utilizar el color para rastrear los ciclos estacionales de las flores.
+This space and aircraft instrument will use color to track the seasonal cycles of flowers. The instrument—an imaging spectrometer—mapped the landscape across hundreds of wavelengths of light, capturing flowers as they bloomed and aged over several months.
 
-El instrumento —un espectrómetro de imágenes— mapeó el paisaje en cientos de longitudes de onda de luz, capturando las flores a medida que florecían y envejecían a lo largo de los meses.
+The lower panels represent the spectral footprint of each point in the image, capturing the visible range of light (blue, green, and red wavelengths) to the near-infrared (NIR) and beyond. Spatial resolution is around 16 feet (5 meters).
 
-Los paneles inferiores representan la huella espectral de cada punto de la imagen, capturando el rango visible de luz (longitudes de onda azul, verde y roja) hasta el infrarrojo cercano (NIR) y más allá. La resolución espacial es de alrededor de 16 pies (5 metros).
-
-Para muchas especies de plantas, desde cultivos hasta cactus, la floración está sincronizada con los cambios estacionales de temperatura, luz diurna y precipitaciones.
+For many plant species, from crops to cacti, flowering is synchronized with seasonal changes in temperature, daylight, and precipitation.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/00fe94c3-69d2-48de-841a-a850ce37c79b" />
 
-Por lo general, los estudios de flores silvestres se basan en observaciones desde el terreno y en herramientas como la fotografía time-lapse. 
-
-Para rastrear las flores a gran escala, Angel y otros científicos de la NASA buscan una de las cualidades distintivas de las flores: el color.
-
-Los pigmentos florales se dividen en tres grupos principales: carotenoides y betalaínas (asociados con los colores amarillo, naranja y rojo) y antocianinas (responsables de muchos rojos intensos, violetas y azules). Las diferentes estructuras químicas de los pigmentos reflejan y absorben la luz en patrones únicos.
-
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/447cb4c8-e21e-4aca-96ef-455e8e0bd538" />
 
+Key Information
 
-El espectrómetro de imágenes infrarrojas visibles aerotransportado de próxima generación (AVIRIS-NG) se ha desarrollado para proporcionar acceso continuo a mediciones de espectroscopia de imágenes con alta relación señal-ruido en el rango espectral reflejado solar. 
+Wildflower studies are typically based on ground-based observations and tools like time-lapse photography. To track flowers on a large scale, Angel and other NASA scientists look for a distinctive quality of flowers: color.
 
-AVIRIS-NG mide el rango de longitud de onda de 380 nm a 2510 nm con un muestreo de 5 nm. Los espectros se miden como imágenes con 600 elementos transversales y muestreo espacial de 0,3 m a 4,0 m desde una plataforma Twin Otter. En un futuro próximo estará disponible una plataforma de gran altitud (ER-2 de la NASA). AVIRIS-NG tiene una uniformidad espectral cruzada superior al 95% y una uniformidad espectral IFOV >= del 95%.
+Floral pigments are divided into three main groups: carotenoids and betalains (associated with yellow, orange, and red colors) and anthocyanins (responsible for many deep reds, purples, and blues). The different chemical structures of these pigments reflect and absorb light in unique patterns.
 
-AVIRIS-NG ha sido calibrado e implementado con un nuevo sistema de captura de datos de alta velocidad y un nuevo algoritmo de detección de nubes en tiempo real para respaldar un experimento de liberación de metano en el Centro de pruebas de campos petrolíferos de las Montañas Rocosas del Departamento de Energía. La capacidad de este instrumento para detectar y medir fuentes puntuales de metano es de interés tanto para la investigación de gases de efecto invernadero como para la exploración de recursos naturales, y el algoritmo de detección de nubes a bordo es aplicable para misiones de espectrómetros de imágenes espaciales.
+Next-Generation Airborne Instrument
+
+The Next-Generation Airborne Visible-Infrared Imaging Spectrometer (AVIRIS-NG) has been developed to provide continuous access to imaging spectroscopy measurements with a high signal-to-noise ratio in the solar-reflected spectral range.
+
+AVIRIS-NG measures the wavelength range from 380 nm to 2510 nm with 5 nm sampling. The spectra are measured as images with 600 cross-track elements and spatial sampling from 0.3 m to 4.0 m from a Twin Otter platform. A high-altitude platform (NASA's ER-2) will be available in the near future. AVIRIS-NG has a cross-track spectral uniformity greater than 95% and an IFOV spectral uniformity of >= 95%.
+
+AVIRIS-NG has been calibrated and implemented with a new high-speed data acquisition system and a new real-time cloud detection algorithm to support a methane release experiment at the Department of Energy's Rocky Mountain Oilfield Test Center. This instrument's ability to detect and measure methane point sources is of interest for both greenhouse gas research and natural resource exploration, and the onboard cloud detection algorithm is applicable for future space-based imaging spectrometer missions.
 
 FUENTES:
 <https://www.jpl.nasa.gov/news/nasa-takes-to-the-air-to-study-wildflowers/>
