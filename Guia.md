@@ -1,3 +1,5 @@
+[← Regresar a la página principal](TeamInfo.md)
+
 # Astro-Codex-Colab
 
 🚀 Guía Rápida para Colaborar
