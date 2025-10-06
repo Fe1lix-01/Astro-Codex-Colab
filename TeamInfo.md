@@ -1,4 +1,4 @@
-[← Regresar a la página principal](Readme)
+[← Regresar a la página principal](Readme.md)
 # Astro-Codex NASA
 Your challenge is to harness the power of NASA Earth observations to create a dynamic visual tool that displays and/or detects plant blooming events around the globe—just like pollinators do–and that advances solutions for monitoring, predicting, or managing vegetation.
 
