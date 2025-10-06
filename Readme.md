@@ -1,6 +1,6 @@
 # Astro-Codex NASA
 
-* [Página web Repositorio en GitHub](https://github.com/Fe1lix-01/Astro-Codex-Web)
+* [Repositorio del Proyecto](https://github.com/Fe1lix-01/Astro-Codex-Web)
 
 ---
 
