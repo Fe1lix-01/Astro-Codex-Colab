@@ -1,4 +1,4 @@
-[← Regresar a la página principal](README)
+[← Regresar a la página principal](Readme)
 # Astro-Codex NASA
 Su desafío es aprovechar el poder de los datos de observación de la Tierra de la NASA para desarrollar una herramienta que monitoree y visualice eventos de floración de plantas en todo el mundo o dentro de una región local específica, y aborda directamente una necesidad específica de monitoreo de vegetación, predicción o gestión en la escala elegida.
 
